@@ -1,0 +1,36 @@
+".container": {
+	backgroundColor:"#23252E"
+}
+
+"#container":{
+    height: 150,
+    top: 10,
+    left: 15,
+    right: 15
+}
+
+"#containerbtn":{
+    height: 800,
+    top: 10,
+    left: 15,
+    right: 15,
+    color: '#B7C0BE'
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#B7C0BE"
+}
+
+"#label": {
+	font: {
+		fontSize: 18
+	}
+}
+
+"#input":{
+    left: 40,
+    right: 40
+    //Add your default TextField input here
+}

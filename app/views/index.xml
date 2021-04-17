@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+		<View id="container">
+			<Label id="label">O que você quer saber ?</Label>
+		</View>
+		<TextField id="input"/>
+		<View id="containerbtn">
+			<Button id="submitbtn" onClick="doClick" title="Testar Pergunta"/>
+		</View>
+	</Window>
+</Alloy>
