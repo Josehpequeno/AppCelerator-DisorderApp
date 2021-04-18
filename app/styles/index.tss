@@ -10,11 +10,18 @@
 }
 
 "#containerbtn":{
-    height: 800,
-    top: 10,
+    height: 100,
+    top: 400,
     left: 15,
     right: 15,
     color: '#B7C0BE'
+}
+
+"#containerinput":{
+    height: 100,
+    top: 200,
+    left: 15,
+    right: 15
 }
 
 "Label": {

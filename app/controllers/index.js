@@ -3,10 +3,10 @@ function doClick(e) {
 	var t = Math.round(Math.random()*10);
 	console.log(t);
 	if (t % 2 == 0) {
-		alert($.input.value + " \n Sim");
+		alert($.input.value + " Sim");
 	}
 	else {
-		alert($.input.value + " \n Não");
+		alert($.input.value + " Não");
 	}
 }
 /*
